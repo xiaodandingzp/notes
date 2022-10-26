@@ -18,3 +18,4 @@ markdown_extensions:
 nav:
   - "linux": linuxFirst.md
   - "mkdocs使用": mkdocsuser.md
+  - "常用命令": commoncommands.md
