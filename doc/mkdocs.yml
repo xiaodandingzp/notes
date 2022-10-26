@@ -16,5 +16,5 @@ markdown_extensions:
   - meta
 
 nav:
-  - "linux": question.md
+  - "linux": linuxFirst.md
   - "mkdocs使用": mkdocsuser.md
