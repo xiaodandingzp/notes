@@ -1,0 +1,20 @@
+site_name: notes
+
+site_description: zpp的学习之路
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'light blue'
+    accent: 'white'
+
+markdown_extensions:
+  - smarty
+  - codehilite:
+      guess_lang: false
+  - footnotes
+  - meta
+
+nav:
+  - "linux": question.md
+  - "mkdocs使用": mkdocsuser.md
